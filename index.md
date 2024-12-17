@@ -13,10 +13,10 @@ I am an Electrical and Computer Engineering Ph.D. student at Georgia Institute o
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July 2024]** Attended SEED 2024 in Atlanta, GA.
+- **[June 2024]** Started PhD program at Georgia Institute of Technology as a President's Fellow.
+- **[May 2024]** Graduated with Bachelor's degrees in Biochemistry and Electrical Engineering from Purdue University.
+- **[March 2024]** Won National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
 
 {% include_relative _includes/publications.md %}
 
