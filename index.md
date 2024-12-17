@@ -8,8 +8,10 @@ I am an Electrical and Computer Engineering Ph.D. student at Georgia Institute o
 
 ## Research Interests
 
-- **Sensing Hardware:** 
-- **Chemical Applications:** electrochemical biosensing, bio-compatible materials
+- **Sensing Hardware:**
+- **Ecology and Environmental Science:**
+- **Chemical Applications:** electrochemical sensing, bio-compatible materials
+- **Ethical Design:**
 
 ## News
 
