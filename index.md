@@ -17,6 +17,10 @@ I am an Electrical and Computer Engineering Ph.D. student at Georgia Institute o
 - **[June 2024]** Started PhD program at Georgia Institute of Technology as a President's Fellow.
 - **[May 2024]** Graduated with Bachelor's degrees in Biochemistry and Electrical Engineering from Purdue University.
 - **[March 2024]** Won National Science Foundation Graduate Research Fellowship Program (NSF GRFP).
+- **[April 2024]** Optical microscopy for cellular manipulation paper published to Advanced Science.
+- **[May 2021]** GONET paper published to International Journal of Sustainable Lighting.
+
+
 
 {% include_relative _includes/publications.md %}
 
