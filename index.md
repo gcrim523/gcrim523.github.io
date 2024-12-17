@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an Electrical and Computer Engineering Ph.D. student at Georgia Institute of Technology in Atlanta, GA in the Ka Moamoa lab. I graduated with a B.S.E.E. in Electrical Engineering and a B.S.Ch. in Biochemistry (ACS Accredited) from Purdue University in May 2024. My research focus is applications of sensing hardware in the environmental and agricultural sectors. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Sensing Hardware:** 
+- **Chemical Applications:** electrochemical biosensing, bio-compatable materials
 
 ## News
 
